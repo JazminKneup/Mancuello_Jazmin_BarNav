@@ -1,0 +1,17 @@
+.form {
+    display: flex;
+    flex-direction: row; /* Cambia a fila */
+    align-items: center; /* Alinea los elementos verticalmente en el centro */
+  }
+  
+  .form label {
+    margin-right: 10px; /* Espacio entre la etiqueta y el campo de entrada */
+    font-size: 16px;
+  }
+  
+  .form input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
